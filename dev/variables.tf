@@ -2,7 +2,7 @@ variable "CF_ACCOUNT_ID" {
   type = string
 }
 
-variable "CF_API_KEY" {
+variable "CF_API_TOKEN" {
   type = string
 }
 
