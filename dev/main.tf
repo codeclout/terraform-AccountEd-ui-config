@@ -22,5 +22,5 @@ module "ui_onboarding_config" {
     small_group  = "I am representing a small group up to 250 people"
   }
 
-  step_one_header = "Please tell us about your situation"
+  step_one_header = "Please tell us, what is your situation?"
 }
